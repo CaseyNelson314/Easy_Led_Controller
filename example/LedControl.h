@@ -55,13 +55,13 @@ class LedControl {
       this->maxPower = maxPower;
     }
 
-    int GetR(byte arrayIndex = 0) {
+    byte GetR(byte arrayIndex = 0) {
       return ledData[arrayIndex][0];
     }
-    int GetG(byte arrayIndex = 0) {
+    byte GetG(byte arrayIndex = 0) {
       return ledData[arrayIndex][1];
     }
-    int GetB(byte arrayIndex = 0) {
+    byte GetB(byte arrayIndex = 0) {
       return ledData[arrayIndex][2];
     }
 
