@@ -6,6 +6,8 @@
 
 プログラム内に多少遅延がある場合も正常に動作します
 
+<a href=/sin_wave_version><h2>正弦波バージョン</h2></a>
+
 # constructor
  ```
  LedControl(long CYCLE, int LEDNUM = 1, int LEDGROUPS = 1)
