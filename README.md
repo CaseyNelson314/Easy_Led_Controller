@@ -9,8 +9,9 @@
 
 
 
-## 動作イメージ
+## 動作イメージ(拾い画)
 ![](/img/gradation.jpg)
+
 
 <a href=/sin_wave_version><h2>正弦波バージョン</h2></a>
 
