@@ -7,6 +7,8 @@
 プログラム内に多少遅延がある場合も正常に動作します(自動補正)
 
 
+
+
 ## 動作イメージ
 ![](/img/gradation.jpg)
 
@@ -26,7 +28,9 @@
  
  LEDNUM：LEDの個数
  
- LEDGROUPS：色相の変化はLED何個の間で行うか
+ LEDGROUPS：色相の変化はLED何個の間られます
+ 
+ LEDGROUPSを１にすればすべてのLEDの変化をそろえられます
 
 
 # Function list
