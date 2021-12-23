@@ -29,7 +29,7 @@
  
  getter
  ```
- byte GetR(byte arrayIndex = 0)      :赤　引数に取得したいLEDのデータの番号を指定 [GetR(0):0番目のLEDデータ取得]
+ byte GetR(byte arrayIndex = 0)      :赤　引数に取得したいLEDの番号を指定 [GetR(0):0番目のLEDデータ取得]
  byte GetG(byte arrayIndex = 0)      :緑
  byte GetB(byte arrayIndex = 0)      :青
  ```
