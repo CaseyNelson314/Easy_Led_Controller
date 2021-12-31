@@ -12,7 +12,7 @@ class LedControl {
     int  ledGroups;
     byte maxPower = 255;
     byte **ledData;
-    unsigned int time, lastTime;
+    unsigned long time, lastTime;
 
   public:
     LedControl(long CYCLE, int LEDNUM = 1, int LEDGROUPS = 1):
